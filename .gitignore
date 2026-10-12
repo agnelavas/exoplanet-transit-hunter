@@ -1,0 +1,15 @@
+﻿# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Lightkurve & Astropy download cache
+.lightkurve-cache/
+.astropy/
+
+# VS Code settings
+.vscode/
